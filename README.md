@@ -1,2 +1,2 @@
 # computer-graphics
-projects from CPSC 314
+Projects from CPSC 314
