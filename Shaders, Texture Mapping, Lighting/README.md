@@ -1,1 +1,1 @@
-In this assignment, I experimented with vertex shaders, fragment shaders, texture mapping, and lighting.
+In this assignment, I experimented with vertex shaders, fragment shaders, texture mapping, and lighting. For a creative component, I implemented a procedural, animated perturbation, using sin(time), to create virtual ripples on the floor.
